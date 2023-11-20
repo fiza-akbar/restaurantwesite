@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/restaurantwesite/static/css/main.ccc4adce.css",
+    "main.js": "/restaurantwesite/static/js/main.09fcd94a.js",
+    "static/media/pizza.jpg": "/restaurantwesite/static/media/pizza.beb988c8a812e6be9a20.jpg",
+    "static/media/chola.jpg": "/restaurantwesite/static/media/chola.c74e8541645e50eabd13.jpg",
+    "static/media/sweet.jpg": "/restaurantwesite/static/media/sweet.9641a43b567a720ba27c.jpg",
+    "static/media/nonvegthali.jpg": "/restaurantwesite/static/media/nonvegthali.317b9ed5f681ab5e9cd8.jpg",
+    "static/media/allupakoida.jpg": "/restaurantwesite/static/media/allupakoida.19bb4bd0337caa209c6a.jpg",
+    "static/media/samosa.jpg": "/restaurantwesite/static/media/samosa.31e4f81f8a14da5f7799.jpg",
+    "static/media/rajmarice.jpg": "/restaurantwesite/static/media/rajmarice.1808a67652826eb3eac2.jpg",
+    "static/media/maggi.jpg": "/restaurantwesite/static/media/maggi.d51edea3324ffc85ac3d.jpg",
+    "static/media/corn.jpg": "/restaurantwesite/static/media/corn.8f92996cf53ac99ba914.jpg",
+    "index.html": "/restaurantwesite/index.html",
+    "main.ccc4adce.css.map": "/restaurantwesite/static/css/main.ccc4adce.css.map",
+    "main.09fcd94a.js.map": "/restaurantwesite/static/js/main.09fcd94a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ccc4adce.css",
+    "static/js/main.09fcd94a.js"
+  ]
+}
